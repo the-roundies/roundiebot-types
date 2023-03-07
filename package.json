@@ -1,0 +1,14 @@
+{
+  "name": "roundiebot-types",
+  "version": "1.0.0",
+  "description": "TypeScript types for The Roundies projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "4.9.5"
+  }
+}
