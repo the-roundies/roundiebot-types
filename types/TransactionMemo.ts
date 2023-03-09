@@ -1,5 +1,7 @@
+import { EventType } from './enums';
+
 export type TransactionMemo = {
-    eventType?: number;
-    discordId?: string;
-    secret?: string;
-}
+  eventType?: EventType;
+  discordId?: string;
+  secret?: string;
+};
