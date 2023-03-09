@@ -20,7 +20,7 @@ export interface ShyftAction {
   type: ShyftCallbackEventType;
 }
 
-export interface ShyftCallbackEvent {
+export interface ShyftCallback {
   timestamp: string;
   fee: string;
   fee_payer: string;
