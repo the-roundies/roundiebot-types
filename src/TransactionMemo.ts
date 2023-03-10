@@ -1,4 +1,4 @@
-import { EventType } from './enums';
+import { EventType } from './EventType';
 
 export type TransactionMemo = {
   eventType?: EventType;
