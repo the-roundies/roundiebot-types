@@ -1,6 +1,6 @@
 {
   "name": "roundiebot-types",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "TypeScript types for The Roundies projects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
