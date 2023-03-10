@@ -15,5 +15,5 @@ export enum EventType {
   userInsane = 15,
   userLaidTrapInChannel = 16,
   userFishingLicenseReset = 17,
-  userHuntingLicenseReset = 17,
+  userHuntingLicenseReset = 18,
 }
