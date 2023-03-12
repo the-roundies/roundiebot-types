@@ -16,7 +16,7 @@ export interface ShyftApiActionInfo {
 }
 
 export interface ShyftAction {
-  info: ShyftApiActionInfo[];
+  info: ShyftApiActionInfo;
   source_protocol: string;
   type: ShyftCallbackEventType;
 }
