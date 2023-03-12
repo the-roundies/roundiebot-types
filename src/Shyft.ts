@@ -8,7 +8,8 @@ export type ShyftCallbackEventType =
   | 'NFT_TRANSFER';
 
 export interface ShyftApiActionInfo {
-  nft_address: string;
+  nft_address?: string;
+  token_address?: string;
   amount: number;
   owner: string;
   owner_associated_account: string;
